@@ -162,8 +162,8 @@ questions:
                                     type: string
                                     required: true
                                     enum:
-                                      - value: prowlarr
-                                        description: prowlarr
+                                      - value: jellyseer
+                                        description: jellyseer
                                 - variable: config
                                   label: Container Network Configuration
                                   schema:
